@@ -1,0 +1,133 @@
+
+
+*{margin:0; padding:0; }
+.fix{overflow:hidden;}
+body{background-color: #DBEAF9;}
+.main{width:960px; margin:55px auto; display:block;
+
+ }
+ 
+.account 
+{
+	
+	float: right;
+	margin-right:5px;
+	margin-top:20px;
+	
+}
+.leftPortion
+{
+	margin: 5px;
+	float: left;
+	
+}
+
+.leftPortion img 
+{
+	
+	width: 500px;
+	height: 420px;
+	text-align:center;
+	padding: 7px;
+	border-radius:35px;
+	
+}
+
+
+
+.leftPortion h3
+{
+	width: 514px;
+	text-align: center;
+	
+	
+}
+
+.midClass
+{
+	float:left;
+	margin-left: 10px;
+	margin-right: 30px;
+	margin-top: 20px;
+	
+}
+
+.midClass img
+{
+	
+	height: 440px;
+}
+
+.rightPortion
+{
+	
+	width: 350px;
+	float:left;
+	margin: 5px;
+	
+	padding: 10px;
+	
+	
+	
+}
+.rightPortion h1
+{
+	text-align:center;
+	font-size: 90px;
+	font-weight: bold;
+	color:#4862A3; 
+	margin-left:35px;
+	
+}
+.tabClass
+{
+	margin-top:45px;
+	margin-bottom:30px;
+	padding: 2px;
+	margin-left:20px;
+	margin-right:20px;
+	
+}
+.tabClass td
+{
+	padding: 3px;
+}
+.subClass
+{
+	
+
+	float:right;
+	font-weight: bold;
+	padding:1px;
+}
+.errorClass
+{
+	font-size: 13px;
+	color: red;
+}
+
+.subClass, .forClass
+{
+	margin-top: 25px;
+}
+.forClass
+{
+	margin-left:1px;
+	margin-right:25px;
+	padding-top:4px;
+	font-size:10px;
+	float:left;
+}
+.forClass a
+{
+	text-decoration:none;
+	
+	font-weight: bold;
+}
+.inputClass
+{
+	text-align: center;
+	width: 185px;
+	margin-right:3px;
+	padding:3px;
+}
